@@ -39,12 +39,14 @@ namespace Sudoku
         Stream str;
         BinaryFormatter bf;
 
+        // Default constructor
         public Game()
         {
             InitializeComponent();
             error = new ErrorProvider();
         }
 
+        // Contructor with arguments
         public Game(Difficulties d, Form1 f, Options o)
         {
             InitializeComponent();

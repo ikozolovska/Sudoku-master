@@ -56,3 +56,7 @@ D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
 D:\Ivana\Sudoku\Sudoku\bin\Debug\Sudoku.exe
 D:\Ivana\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
 D:\Ivana\Sudoku\Sudoku\bin\Debug\AxInterop.WMPLib.dll
+D:\Ivana\Sudoku-master\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.exe
+D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.pdb
