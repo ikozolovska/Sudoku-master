@@ -1,0 +1,58 @@
+c:\users\matea\documents\visual studio 2013\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Difficulties.resources
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Game.resources
+C:\Users\Matea\Documents\Visual Studio 2013\Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Stats.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.Difficulties.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.Game.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.Stats.resources
+D:\Ivana\cetvrt semestar\Vizuelno programiranje\proektna\matea\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Matea\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Matea\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Matea\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Difficulties.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Game.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Stats.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Options.resources
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Matea\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\Matea\Desktop\Sudoku\Sudoku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\New folder\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\New folder\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\New folder\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Igor\AppData\Roaming\Skype\My Skype Received Files\New folder\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Ivana\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Difficulties.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Game.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Options.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.Stats.resources
+D:\Ivana\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+D:\Ivana\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Ivana\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Ivana\Sudoku\Sudoku\bin\Debug\AxInterop.WMPLib.dll
