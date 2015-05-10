@@ -142,6 +142,7 @@
             this.btnCheck.TabIndex = 8;
             this.btnCheck.Text = "Check";
             this.btnCheck.UseVisualStyleBackColor = false;
+            this.btnCheck.Click += new System.EventHandler(this.btnCheck_Click);
             // 
             // Game
             // 

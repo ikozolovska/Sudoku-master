@@ -322,5 +322,69 @@ namespace Sudoku
                 difficulties.Show();
             }            
         }
+
+        private void checkSudoku()
+        {
+            emptyField = false;
+            incorrectValue = false;
+
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    if (currentMatrix[i, j].Enabled == true)
+                    {
+                        if (currentMatrix[i, j].Text.ToString() == "")
+                        {
+                            emptyField = true;
+                        }
+                        else
+                        {
+                            if (currentMatrix[i, j].Text.Trim() != tempMatrix[j, i].ToString())
+                            {
+                                incorrectValue = true;
+                                currentMatrix[i, j].Text = "";
+                            }
+                        }
+                    }
+                }
+            }
+
+            if (!emptyField && !incorrectValue)
+            {
+                if (!alReadyChecked)
+                {
+                    MessageBox.Show("Congratulations! You solved the Sudoku \n To play again please click the end button and choose the proper difficulty.");
+
+                    timer1.Stop();
+                    Player = new Person(tbName.Text.ToString(), lblTime.Text.ToString());
+                    form.players.Add(Player);
+                    bf.Serialize(str, Player);
+                    str.Close();
+                    alReadyChecked = true;
+                }
+                else
+                {
+                    MessageBox.Show("You have already checked this Sudoku.\n Please click the end button and start a new game.");
+                }
+            }
+            else if (emptyField && !incorrectValue)
+            {
+                MessageBox.Show("Silly you! To check the Sudoku, you need to fill all the blank field(s) first.");
+            }
+            else if (!emptyField && incorrectValue)
+            {
+                MessageBox.Show("I'm sorry, but you have entered some incorrect value(s) and they have been removed.");
+            }
+            else
+            {
+                MessageBox.Show("I'm sorry, but you have entered some incorrect value(s) and also you have blank field(s).\n The incorrect value(s) have been removed.");
+            }
+        }
+
+        private void btnCheck_Click(object sender, EventArgs e)
+        {
+            checkSudoku();
+        }
     }
 }

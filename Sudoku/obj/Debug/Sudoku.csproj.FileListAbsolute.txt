@@ -60,3 +60,7 @@ D:\Ivana\Sudoku-master\Sudoku\bin\Debug\Sudoku.exe.config
 D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
 D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.exe
 D:\Ivana\Sudoku-master\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Matea\Desktop\VP\Sudoku-master\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Matea\Desktop\VP\Sudoku-master\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\Matea\Desktop\VP\Sudoku-master\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Matea\Desktop\VP\Sudoku-master\Sudoku\obj\Debug\Sudoku.pdb
