@@ -60,7 +60,7 @@ Difficulties, Form1 и Options. Инстанцата од Options ни е пот
 <b>Screen Shots</b>
 Изгледот на главната форма
 
-![sudoku](https://github.com/assets/12382501/7555698/cdc9627a-f753-11e4-8f0c-bba5ba56b84f.png)
+![sudoku](cdc9627a-f753-11e4-8f0c-bba5ba56b84f.png)
 
 Изгледот на формата Difficulties
 
